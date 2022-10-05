@@ -1,0 +1,14 @@
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.exe
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.deps.json
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.runtimeconfig.json
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.runtimeconfig.dev.json
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.dll
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberGuess\NumberGuess\bin\Debug\netcoreapp3.1\NumberGuess.pdb
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.csproj.AssemblyReference.cache
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.AssemblyInfoInputs.cache
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.AssemblyInfo.cs
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.csproj.CoreCompileInputs.cache
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.dll
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.pdb
+C:\Users\Utilizador\Desktop\2D Game Development with Unity\NumberGuess\NumberGuess\obj\Debug\netcoreapp3.1\NumberGuess.genruntimeconfig.cache
